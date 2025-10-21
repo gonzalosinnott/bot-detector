@@ -1,1 +1,6 @@
 streamlit
+plotly
+pandas>=1.5
+scikit-learn>=1.2
+joblib>=1.2
+requests>=2.31'

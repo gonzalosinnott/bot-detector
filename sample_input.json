@@ -1,0 +1,14 @@
+{
+  "id": 123456,
+  "id_str": "123456",
+  "name": "John Doe",
+  "screen_name": "johndoe",
+  "location": "Buenos Aires, Argentina",
+  "description": "Data enthusiast. Coffee lover.",
+  "verified": false,
+  "followers_count": 850,
+  "friends_count": 420,
+  "favourites_count": 1300,
+  "statuses_count": 5600,
+  "created_at": "2016-08-15T12:30:00Z"
+}
